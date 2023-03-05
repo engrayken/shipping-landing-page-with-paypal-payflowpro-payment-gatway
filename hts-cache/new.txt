@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:55:56	95214/95214	---MCZ	200	added ('OK')	text/html	etag:W/%22ea1cdb136dafe42e310d3f8f7164c0d2%22	https://www.backsocksleeve.com/checkout-a	youtubetest/youtubetest/www.backsocksleeve.com/checkout-a.html	(from )
+00:55:57	891/891	---M--	404	error ('Not%20Found')	text/html	etag:%22b4dcb484a7c73e819e85079c8d1009ee%22	https://www.backsocksleeve.com/robots.txt		(from )
+00:55:58	450/450	---M--	200	added ('OK')	text/html	etag:%2296538d5a78c73ff2a660be225415cbbc%22	https://www.backsocksleeve.com/	youtubetest/youtubetest/www.backsocksleeve.com/index.html	(from https://www.backsocksleeve.com/checkout-a)

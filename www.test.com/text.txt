@@ -1,0 +1,1 @@
+{"BILLTOFIRSTNAME":"Ayogu Kenneth","BILLTOSTREET":"333 Fremont Street","BILLTOCITY":"Lagos","BILLTOSTATE":"LA","BILLTOZIP":"100001","CUSTOM":"7066630909","COMMENT1":"1 FREE Pair","USER":"luxeconcepts","VENDOR":"luxeconcepts","PWD":"Pw4Fiverr1","TENDER":"C","TRXTYPE":"S","PARTNER":"paypal","ACCT":"4960092255914316","EXPDATE":"Month22","CVV2":"225","AMT":""}
